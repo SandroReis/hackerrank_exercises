@@ -34,4 +34,4 @@ int getTotalX(vector<int> a, vector<int> b) {
 		}
 	}
 	return factor_count;
-}
+}
